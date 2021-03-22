@@ -1,4 +1,4 @@
-# exercício NavBar
+# Exercício NavBar
 
 	  	
 EXERCÍCIO NAVBAR **Regras de Negócio: ** - Crie um Navbar responsivo 
